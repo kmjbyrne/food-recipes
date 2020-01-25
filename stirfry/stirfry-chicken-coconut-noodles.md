@@ -1,5 +1,5 @@
 ---
-image: /https://tz-recipes.s3-eu-west-1.amazonaws.com/images/stir-fry-chicken-with-coconut-milk-and-noodles.jpg
+image: [https://tz-recipes.s3-eu-west-1.amazonaws.com/images/stir-fry-chicken-with-coconut-milk-and-noodles.jpg]
 ---
 
 # Stir-Fry Chicken with Coconut Milk and Noodles
