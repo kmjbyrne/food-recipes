@@ -1,6 +1,6 @@
 # Stir-Fry Chicken with Coconut Milk and Noodles
 
-![alt text][image]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+![alt text][image]
 
 [image]: https://tz-recipes.s3-eu-west-1.amazonaws.com/images/stir-fry-chicken-with-coconut-milk-and-noodles.jpg
 
